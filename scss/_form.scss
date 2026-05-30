@@ -24,9 +24,9 @@
 
   [type="submit"] {
     display: inline-block;
-    width: 14rem;
-    height: 3.5rem;
-    line-height: 3.5rem;
+    width: 16rem;
+    height: 4.5rem;
+    line-height: 4.5rem;
     margin-inline: space();
     @include make-button();
     @include make-button-color-normal("primary");
@@ -49,9 +49,9 @@
 
   [type="submit"], [type="button"] {
     display: inline-block;
-    width: 14rem;
-    height: 3.5rem;
-    line-height: 3.5rem;
+    width: 16rem;
+    height: 4.5rem;
+    line-height: 4.5rem;
     margin-inline: space();
     @include make-button();
   }
